@@ -1,5 +1,3 @@
-
-
 THREE.OrbitControls = function ( object, domElement ) {
 
 	this.object = object;
